@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "target": "ES2020",
+    "module": "system",
+    "lib": ["ES2020", "DOM"],
+    "outFile": "web/app.js",
+    "skipLibCheck": true,
+    "types": []
+  },
+  "include": ["web/app.ts"],
+  "exclude": ["node_modules"]
+}
+
